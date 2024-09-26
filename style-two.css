@@ -1,0 +1,27 @@
+.container-one,
+.container-two {
+    margin: 50px;
+    background-color: #F5F5DC;
+    border: 100%;
+    padding: 9%;
+    border-radius: 50px;
+}
+
+#body {
+    background-color: brown;
+    font-size: larger;
+    background-image: url(/Skill/School.png);
+}
+
+.container-three {
+    background-color: #F5F5DC;
+    margin: 50px;
+    padding: 5%;
+    border-radius: 50px;
+
+}
+
+#unique {
+    font-display: black;
+    font-size: x-large;
+}
